@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/Payment/index.css"],"names":[],"mappings":"AAQA,oBACE,WACF","file":"19.8516da86.chunk.css","sourcesContent":["select {\n  margin: 12px;\n}\n\ninput {\n  margin: 12px;\n}\n\nbutton {\n  margin: 12px;\n}\n"]}
