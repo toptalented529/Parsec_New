@@ -1,0 +1,62 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "MOS",
+      "symbol": "MOS",
+      "address": "0x9a7E03F1A79c7dE58897d3F223b6c0E7f3f3c01C",
+      "chainId": 1120,
+      "decimals": 18,  
+      "logoURI": "https://znxscan.com/images/tokens/0xBF921f94Fd9eF1738bE25D8CeCFDFE2C822c81B0.png"
+    },
+    {
+      "name": "Parsec",
+      "symbol": "PSC",
+      "address": "0xd878Ad224225C86047ff096c4977833b73C937a5",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "https://znxscan.com/images/tokens/0xBF921f94Fd9eF1738bE25D8CeCFDFE2C822c81B0.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xb2262C29DAA309F89cFc4Ce1Ef2a3CA3E6fc1f6f",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "https://znxscan.com/images/tokens/0xB922937a937999E4c27A39A2147f1F0f439EefFC.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xc7A3580B15b79584833E1d75236f52C8675EE224",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "https://znxscan.com/images/tokens/0x9ab7CA8a88F8e351f9b0eEEA5777929210199295.png"
+    },
+    {
+      "name": "WUNE",
+      "symbol": "WUNE",
+      "address": "0xac201451AfBB56120dfeF2eAA2998E2D183D2041",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "https://znxscan.com/images/tokens/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0x1a66616b1aa2D79f1be88742AacD559CBe1e2397",
+      "chainId": 1120,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    }
+  ]
+}
