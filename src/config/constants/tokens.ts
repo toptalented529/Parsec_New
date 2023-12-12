@@ -27,7 +27,7 @@ export const BUSD: { [chainId: number]: Token } = {
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
-    '0xb2262C29DAA309F89cFc4Ce1Ef2a3CA3E6fc1f6f',
+    '0x66C34276bD359a4D5Dd9Aa18762cB22Aca21df28',
     18,
     'BUSD',
     'InveCoin USD',
@@ -35,8 +35,8 @@ export const BUSD: { [chainId: number]: Token } = {
 }
 
 export const WBNB = new Token(ChainId.TESTNET, '0xac201451AfBB56120dfeF2eAA2998E2D183D2041', 18, 'WBNB', 'Wrapped PSC')
-export const DAI = new Token(ChainId.MAINNET, '0xED2bAc9898d9e3A3F69b504B63f19655B7801104', 18, 'DAI', 'Dai Stablecoin')
-export const USDT = new Token(ChainId.MAINNET, '0xc7A3580B15b79584833E1d75236f52C8675EE224', 18, 'USDT', 'Tether USD')
+export const DAI = new Token(ChainId.MAINNET, '0x1c76192D5a6ED099F0E55f82F435b409F0D25E09', 18, 'DAI', 'Dai Stablecoin')
+export const USDT = new Token(ChainId.MAINNET, '0xc7A3580B15b79584833E1d75236f52C8675EE224', 6, 'USDT', 'Tether USD')
 export const BTCB = new Token(ChainId.MAINNET, '0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c', 18, 'BTCB', 'Binance BTC')
 export const UST = new Token(
   ChainId.MAINNET,
@@ -74,7 +74,7 @@ const tokens = {
     symbol: 'BUSD',
     address: {
       56: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
-      1120: '0xb2262C29DAA309F89cFc4Ce1Ef2a3CA3E6fc1f6f',
+      1120: '0x66C34276bD359a4D5Dd9Aa18762cB22Aca21df28',
     },
     decimals: 18,
     projectLink: 'https://matchaswap.zilionixx.com/',
@@ -104,7 +104,7 @@ const tokens = {
       56: '0x55d398326f99059ff775485246999027b3197955',
       1120: '0xc7A3580B15b79584833E1d75236f52C8675EE224',
     },
-    decimals: 18,
+    decimals: 6,
     projectLink: 'https://matchaswap.zilionixx.com/',
   },
   cola: {
@@ -190,7 +190,7 @@ const tokens = {
   },
   dai: {
     address: { 56: '0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3',
-     1120: '0xED2bAc9898d9e3A3F69b504B63f19655B7801104' },
+     1120: '0x1c76192D5a6ED099F0E55f82F435b409F0D25E09' },
     decimals: 18,
     symbol: 'DAI',
     projectLink: 'https://matchaswap.zilionixx.com/',

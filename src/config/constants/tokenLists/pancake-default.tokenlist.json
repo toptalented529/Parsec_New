@@ -13,7 +13,7 @@
     {
       "name": "MOS",
       "symbol": "MOS",
-      "address": "0x9a7E03F1A79c7dE58897d3F223b6c0E7f3f3c01C",
+      "address": "0xDD9b2A3BbBA6441Eb96bFD27393DF43F94b03da8",
       "chainId": 1120,
       "decimals": 18,  
       "logoURI": "https://znxscan.com/images/tokens/0xBF921f94Fd9eF1738bE25D8CeCFDFE2C822c81B0.png"
@@ -29,7 +29,7 @@
     {
       "name": "BUSD",
       "symbol": "BUSD",
-      "address": "0xb2262C29DAA309F89cFc4Ce1Ef2a3CA3E6fc1f6f",
+      "address": "0x66C34276bD359a4D5Dd9Aa18762cB22Aca21df28",
       "chainId": 1120,
       "decimals": 18,
       "logoURI": "https://znxscan.com/images/tokens/0xB922937a937999E4c27A39A2147f1F0f439EefFC.png"
@@ -37,9 +37,9 @@
     {
       "name": "USDT",
       "symbol": "USDT",
-      "address": "0xc7A3580B15b79584833E1d75236f52C8675EE224",
+      "address": "0x6525432e63d6A7168c4A7DCBe22f60055968Af95",
       "chainId": 1120,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://znxscan.com/images/tokens/0x9ab7CA8a88F8e351f9b0eEEA5777929210199295.png"
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "DAI",
       "symbol": "DAI",
-      "address": "0x1a66616b1aa2D79f1be88742AacD559CBe1e2397",
+      "address": "0x1c76192D5a6ED099F0E55f82F435b409F0D25E09",
       "chainId": 1120,
       "decimals": 18,
       "logoURI": "https://pancakeswap.finance/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
